@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<title>Chiara Elliotte</title>
+<style>
+body {font family: Calibri, Lora, Wingdings;
+background-color: #C2B1FF
+width: 900px
+margin-right: auto;
+marigin left: auto;}
+h1 {color: #FFFFFF}
+p {color: #21009B}
+</style>
+</head>
+<body>
+
+<h1>Hey! My name is Chiara!</h1>
+<p>This is a paragraph that contains an interesting fact about me</p>
+<img src="meu13.jpg alt="This is me, Chiara>
+
+</body>
+</html>
